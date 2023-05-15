@@ -1,5 +1,5 @@
 # discord-image-logger
-İmageloggers currently free 1 day after $50 dollars
+İmageloggers currently free 1 day before! $50 dollars
 
 1.download files
 2.open cmd
